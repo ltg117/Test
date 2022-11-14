@@ -19,5 +19,7 @@ public class HelloController {
     
     // 第三个变化，用于pull
 
+    // 第四个变化，用于merge
+
     // 第五个变化，用于merge
 }
