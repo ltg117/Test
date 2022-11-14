@@ -23,7 +23,5 @@ public class HelloController {
 
     // 第五个变化，用于merge
 
-    // 第六个变化，用于merge
-
     // 第七个变化，用于merge
 }
