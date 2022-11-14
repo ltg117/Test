@@ -12,4 +12,6 @@ public class HelloController {
     public String handle01(){
         return "Hello, Spring Boot 2!";
     }
+
+    // 一个变化test
 }
